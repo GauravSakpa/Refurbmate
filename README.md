@@ -1,25 +1,25 @@
-# 📱 Refurbmate – Premium Refurbished Smartphone Store
+📱 Refurbmate – Premium Refurbished Smartphone Store
 
 Refurbmate is a PHP-based e-commerce web application designed to display and sell premium refurbished smartphones. Customers can browse phones, add to cart, checkout, and track their orders. The admin panel allows order management and updates.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-### 👥 Customer Side
+ 👥 Customer Side
 - Browse refurbished smartphones with individual pages (mobile1.php to mobile12.php)
 - Add to cart, update quantity, and remove items
 - Place orders and view confirmation
 - Track order status using Order ID
 
-### 🔐 Admin Side
+🔐 Admin Side
 - Admin login and logout
 - View and update order statuses (`Pending → Shipped → Delivered`)
 - Update product info (via `update_product.php`)
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Layer      | Technology         |
 |------------|--------------------|
@@ -30,7 +30,7 @@ Refurbmate is a PHP-based e-commerce web application designed to display and sel
 
 ---
 
-## 📂 Key Files
+📂 Key Files
 
 | File / Folder        | Purpose                              |
 |----------------------|--------------------------------------|
@@ -46,7 +46,7 @@ Refurbmate is a PHP-based e-commerce web application designed to display and sel
 
 ---
 
-## 🧪 How to Run Locally (XAMPP)
+🧪 How to Run Locally (XAMPP)
 
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
 2. Move the project folder into your XAMPP `htdocs` directory  
@@ -59,9 +59,3 @@ Refurbmate is a PHP-based e-commerce web application designed to display and sel
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here if available)*  
-Example:
-```md
-![Cart Page](screenshots/cart_page.png)
